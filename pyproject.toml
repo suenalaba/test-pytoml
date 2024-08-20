@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "test-pytoml"
+name = "testpytomleexuankai"
 version = "0.3.0"
 description = ""
 authors = ["joshua.jr <joshua.jr@bytedance.com>"]
